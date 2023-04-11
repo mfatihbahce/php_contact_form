@@ -7,7 +7,7 @@
 Bu proje, PHP ile geliştirilmiş bir iletişim formunu içermektedir. Form, kullanıcının ad, e-posta ve mesaj gibi bilgileri doldurmasına olanak tanır ve bu bilgileri bir dosyaya kaydeder veya belirtilen bir e-posta adresine gönderir.
 <br>
 <h2>Özellikler</h2>
-<h5>Kullanıcı dostu iletişim formu arayüzü<br>
+Kullanıcı dostu iletişim formu arayüzü<br>
 Form verilerini kaydetme veya e-posta ile gönderme seçenekleri<br>
 Basit ve düzenli kod yapısı<br>
 E-posta doğrulama ve form alanı doğrulama<br>
